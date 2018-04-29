@@ -1,5 +1,5 @@
 var i = 0;
-var txt = ['Innovative Thinker','Inspired to design','Passionate to learn','Full Stack Developer','Also interested in..','Machine Learning','Deep Learning','Computer Vision','Internet of Things','Data Mining','Relational/Dimensional Modeling','Data Warehousing','Extract Transformation Load','Reporting'];
+var txt = ['Innovative Thinker','Inspired to design','Passionate to learn','Full Stack Developer','Bussiness Intelligence Developer','Also interested in..','Machine Learning','Deep Learning','Computer Vision','Internet of Things','Data Mining','Relational/Dimensional Modeling','Data Warehousing','Extract Transformation Load','Reporting'];
 var speed = 20;
 var j = -1;
 var k = 0;
