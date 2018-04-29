@@ -1,0 +1,14 @@
+{
+  "name": "responsive-resume-1.0",
+  "version": "1.0.0",
+  "description": "##Introduction This is a simple template to help you create a mobile first responsive resume. Feel free to download and use to suit your needs. No attribution is required, though I would love to see what you make! If you have any questions feel free to contact me via twitter <a href=\"http://www.twitter.com/philipcdavis\">@philipcdavis<a>. if you notice anything that is broken or that could be improved you can <a href=\"https://github.com/philipcdavis/responsive-resume/issues\">open an issue</a>.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
